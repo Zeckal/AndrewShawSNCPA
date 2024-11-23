@@ -1,0 +1,22 @@
+Andrew, 
+ 
+Congratulations on making it to the next part of the interview process! You should receive an automated email from me shortly containing a link to a secure file transfer. 
+Please follow this link for instructions on completing the next stage of your interview. I have copied the instructions below which are contained at that link for your 
+convenience. 
+ 
+As part of the interview process, we would like for you to complete a coding project. The intent is to provide us some insight into your thought process and technical 
+skill. We will also use it to help facilitate discussion during your onsite interview. The project normally takes between 3-7 hours (Not a time limit) and can be written 
+in any human readable programming language. That being said, SNC primarily develops with C#, Java, and C++, and would prefer not to attempt to decipher assembly code. 
+If your schedule does not allow for completion of the project in one take, we would like to see incremental submissions. If you have any questions or need clarification, 
+please email me and I will be happy to help.
+ 
+How to submit:
+•	Option 1 - Upload your completed project to your GitHub, and then email me a link to the repository along with any comments you have about your solution. 
+Please include instructions on how to run the application in your README.md.
+•	Option 2 - Upon completion or incremental submission, email me to request a secure upload link and upload as a zip file following this convention: 
+<Last Name>_<Submission Number>.
+•	Option 3 - Upon completion or incremental submission, email me your source code contained in a zip file with the name following this convention: 
+<Last Name>_<Submission Number>.zip. Please ensure your upload only contains required source and project files to minimize file size.
+ 
+The project is due by end of day November 25th 2024, however if you finish early let us know and we will begin our review early. Once we review the project, 
+we will get back to you with next steps.
